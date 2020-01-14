@@ -1,0 +1,6 @@
+C:\Users\crist\source\repos\Checkout\Checkout\bin\Debug\Checkout.dll
+C:\Users\crist\source\repos\Checkout\Checkout\bin\Debug\Checkout.pdb
+C:\Users\crist\source\repos\Checkout\Checkout\obj\Debug\Checkout.csprojResolveAssemblyReference.cache
+C:\Users\crist\source\repos\Checkout\Checkout\obj\Debug\Checkout.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Checkout\Checkout\obj\Debug\Checkout.dll
+C:\Users\crist\source\repos\Checkout\Checkout\obj\Debug\Checkout.pdb
